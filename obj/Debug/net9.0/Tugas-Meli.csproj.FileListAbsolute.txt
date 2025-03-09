@@ -1,0 +1,14 @@
+C:\Users\ACER NITRO\Documents\Tugas-Meli\bin\Debug\net9.0\Tugas-Meli.exe
+C:\Users\ACER NITRO\Documents\Tugas-Meli\bin\Debug\net9.0\Tugas-Meli.deps.json
+C:\Users\ACER NITRO\Documents\Tugas-Meli\bin\Debug\net9.0\Tugas-Meli.runtimeconfig.json
+C:\Users\ACER NITRO\Documents\Tugas-Meli\bin\Debug\net9.0\Tugas-Meli.dll
+C:\Users\ACER NITRO\Documents\Tugas-Meli\bin\Debug\net9.0\Tugas-Meli.pdb
+C:\Users\ACER NITRO\Documents\Tugas-Meli\obj\Debug\net9.0\Tugas-Meli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER NITRO\Documents\Tugas-Meli\obj\Debug\net9.0\Tugas-Meli.AssemblyInfoInputs.cache
+C:\Users\ACER NITRO\Documents\Tugas-Meli\obj\Debug\net9.0\Tugas-Meli.AssemblyInfo.cs
+C:\Users\ACER NITRO\Documents\Tugas-Meli\obj\Debug\net9.0\Tugas-Meli.csproj.CoreCompileInputs.cache
+C:\Users\ACER NITRO\Documents\Tugas-Meli\obj\Debug\net9.0\Tugas-Meli.dll
+C:\Users\ACER NITRO\Documents\Tugas-Meli\obj\Debug\net9.0\refint\Tugas-Meli.dll
+C:\Users\ACER NITRO\Documents\Tugas-Meli\obj\Debug\net9.0\Tugas-Meli.pdb
+C:\Users\ACER NITRO\Documents\Tugas-Meli\obj\Debug\net9.0\Tugas-Meli.genruntimeconfig.cache
+C:\Users\ACER NITRO\Documents\Tugas-Meli\obj\Debug\net9.0\ref\Tugas-Meli.dll
